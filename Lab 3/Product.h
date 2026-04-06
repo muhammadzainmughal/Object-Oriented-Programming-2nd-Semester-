@@ -1,5 +1,5 @@
 //        ********** Semester 2 ***********
-//        ********* LAB 3 TASK 5 **********
+//        ********* LAB 3 TASK **********
 
 #ifndef PRODUCT_H
 #define PRODUCT_H
