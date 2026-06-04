@@ -1,0 +1,6 @@
+001,pak,ind,02-08-2026,14,14520
+002,pakistan,india,02-08-2026,45,450
+003,karachi,muzaffarabad,02-08-2026,45,1450
+1254,muzaffarabad,dehli,02-08-2026,14,4520
+005,muzaffarabad,new,york,2,1250
+1254,pakistan,new,dehli,2,-8
